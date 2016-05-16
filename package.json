@@ -1,0 +1,27 @@
+{
+  "name": "typescriptreact",
+  "version": "1.0.0",
+  "description": "typescript for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcoreopc/typescriptReact.git"
+  },
+  "author": "jeremy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appcoreopc/typescriptReact/issues"
+  },
+  "homepage": "https://github.com/appcoreopc/typescriptReact#readme",
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  },
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
+  }
+}
